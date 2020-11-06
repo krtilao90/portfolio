@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Kurt Mose
+Template URL: https://github.com/krtilao90/portfolio/
+Author: github.com/krtilao90/portfolio/
+License: https://github.com/krtilao90/portfolio/
